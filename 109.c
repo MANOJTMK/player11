@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
-int main() {
+int main() 
+{
    int n,a[100],i,j=0,k=0,b[100];
    printf("Enter the value");
    scanf("%d",&n);
